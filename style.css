@@ -37,9 +37,28 @@ h1 {
   font-weight: 700;
   font-size: 18px;
   line-height: 22px;
-
   color: #2e3349;
 }
 h2 {
   display: inline-block;
+  font-family: "Kumbh Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #6b7082;
+}
+h3 {
+  margin-top: 13px;
+  font-family: "Kumbh Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #6b7082;
+}
+hr {
+  margin-top: 28px;
 }
