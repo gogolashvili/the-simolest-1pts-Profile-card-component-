@@ -1,0 +1,45 @@
+.container {
+  max-width: 1440px;
+  height: 720px;
+  margin: 0 auto;
+  background-color: #19a1ae;
+  position: relative;
+}
+.wre1 {
+  position: absolute;
+}
+.wre2 {
+  position: absolute;
+  top: 375px;
+  left: 690px;
+}
+.section {
+  width: 350px;
+  height: 374px;
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 15px;
+}
+.imgface {
+  position: absolute;
+  top: 92px;
+  left: 127px;
+}
+h1 {
+  display: inline-block;
+  margin-top: 68px;
+  margin-left: 120px;
+  font-family: "Kumbh Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #2e3349;
+}
+h2 {
+  display: inline-block;
+}
